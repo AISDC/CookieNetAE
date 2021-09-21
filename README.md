@@ -1,6 +1,6 @@
 # CookieNetAE
 
-This is an open source implementation of the CookieNetAE model that will be detailed in https://arxiv.org/abs/2105.13967
+This is an open source implementation of the CookieNetAE model, developped by Naoufal Layad and Ryan Coffee, that will be detailed in https://arxiv.org/abs/2105.13967
 
 This repo is mostly for computing performance study, due to the limitted file size allowed by GitHub, we only uploaded a subset of the training/validation data.
 In order to make the computing load to be similiar as if full dataset are used, we increased to epoches to 400 so that the number of training steps are similiar.
